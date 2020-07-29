@@ -15,6 +15,9 @@ Para isso, no package.json tem uma dependência chamada json-server, e um arquiv
 
   `yarn json-server server.json -p 3333`
 
+E depois o comando:
+  `yarn start`
+
 ## Funcionalidades
  - Listar os pratos de comida da sua API
  - Adicionar novos pratos de comida a sua API
